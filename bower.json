@@ -6,6 +6,6 @@
         "jquery":         "*"
     },
     "main":         [
-        "jquery.scrollTo.js",
+        "jquery.scrollTo.js"
     ]
 }
