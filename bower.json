@@ -1,0 +1,11 @@
+{
+    "name":         "jquery.scrollTo",
+    "version":      "0.0.1",
+    "dependencies": {
+        "requirejs.css":  "*",
+        "jquery":         "*"
+    },
+    "main":         [
+        "jquery.scrollTo.js",
+    ]
+}
